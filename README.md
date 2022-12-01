@@ -20,16 +20,16 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
   
   <div id="Badge">
 
-  <a href="https://www.linkedin.com/company/89705736/">
+  <a href="https://www.linkedin.com/company/devsden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/DevsDenBD/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a> 
-  <a href="https://twitter.com/DevsDenBD">
+  <a href="https://twitter.com/Devsden12">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/devsdenbd/">
+  <a href="https://www.instagram.com/devsden1/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 

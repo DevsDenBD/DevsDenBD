@@ -29,7 +29,7 @@ Saving time for its clients, in the long run, is the ultimate goal while making 
   <a href="https://twitter.com/Devsden12">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/devsden1/">
+  <a href="https://www.instagram.com/devsdenbd/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
